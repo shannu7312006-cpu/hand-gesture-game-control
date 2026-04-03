@@ -19,5 +19,5 @@ CV2 (for video processing)
 DirectKeys (for keyboard simulation)
 
 # How to run 
-pip install opencv-python mediapipe
-python your_file_name.py
+* pip install opencv-python mediapipe
+* python your_file_name.py
